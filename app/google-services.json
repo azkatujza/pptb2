@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "241340353604",
+    "firebase_url": "https://kusiar-9d0f6.firebaseio.com",
+    "project_id": "kusiar-9d0f6",
+    "storage_bucket": "kusiar-9d0f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241340353604:android:730a05e20f0d4356",
+        "android_client_info": {
+          "package_name": "com.example.user.kusiar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241340353604-2qrj0p9lm3k8g78vl2ed1ogipcukhsvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.kusiar",
+            "certificate_hash": "518d407c32a52d33f735fd3bda16d8b6685d3893"
+          }
+        },
+        {
+          "client_id": "241340353604-mbeft76j0hch2t2ujt1c5imadh2jo5mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANwTJMqPPNYkAngd9wAVltvyTHFmf5nq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241340353604-mbeft76j0hch2t2ujt1c5imadh2jo5mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
